@@ -1,0 +1,37 @@
+[
+    {
+        "question": "Fill in the blanks with appropriate word:",
+        "description": "Children or adults can suffer deteriorating vision at any stage of life. The visual impairment or blind—- bars their ability to see the surroundings. The students with such impairment have problems read— and writing or getting visual instruc—– from the teacher. For example, a student having visi– problems will not be able to re– the instructions on the whitebo— like other students. He will not be able to follow the teac— like his other classmates because he cannot see things.  Blurred vision, head—–, redness or sties, squinting or misaligned eyes can be identifiers of vision issues. The impairment can be severe, mild or moderate.",
+        "type": "multi-input",
+        "correctAnswer": ["ness", "ing", "instructions", "vision", "read", "whiteboard", "teacher", "headaches"],
+        "madeBy": "Sanaul Haque"
+    },
+    {
+        "question": "Fill in the blanks with appropriate word:",
+        "description": "The view from the top was magnificent. There was a large panorama of green hills, winding roads and wooden houses. I could see that night was fall— and it was not wise to expl— the woods at this time. So we decided to sleep. We g– up early next day. The morning was pretty quiet on the hil– area. Only the tourists like us were gett— ready for their hik— trip. We also finished our break—-, took our back—–, and set out to explore the hills.",
+        "type": "multi-input",
+        "correctAnswer": ["falling", "explore", "got", "hilly", "getting", "hiking", "breakfast", "backpack"],
+        "madeBy": "Sanaul Haque"
+    },
+    {
+        "question": "Fill in the blanks with appropriate word:",
+        "description": "Sugar is one of the purest ingredients and a natural carbohydrate, found in fruits, vegetables and nuts. Sugar is made by green pla— through photosynthesis, a natural proc— that turns sunlight in– energy. Sugar is harves— from sugar beets, root vegetables that grow in cooler climates, and sugar ca– plants, tropic– grasses that grow up to 20 feet tall. Sugar beet and sugar cane go-to sources for sugar be—– they have the highest percentage of sucrose of all plants. For both, the refining process removes all impuri—- and the surrounding plant matter, leaving only pure sucrose.(sugar.org)",
+        "type": "multi-input",
+        "correctAnswer": ["plants", "process", "into", "harvested", "cane", "tropical", "because", "impurities"],
+        "madeBy": "Sanaul Haque"
+    },
+    {
+        "question": "Fill in the blanks with appropriate word:",
+        "description": "Very few companies around the world produce airplanes on a large scale. But aircraft construction is a proc— that usually involves numer— other companies and plants in addition to the ma– manufacturing company.The other companies often times prod— the components that go into the plane. Or just produce the parts that go into making the major compon—-. A company for instance can be responsible for producing airplane windows. And as this process is not limi— to companies in the same city as the manufacturing plant or ev– the same country, sometimes airplane parts can come from all over the world.(oxfordsaudia.com)",
+        "type": "multi-input",
+        "correctAnswer": ["process", "numerous", "many", "produces", "components", "limited", "even"],
+        "madeBy": "Sanaul Haque"
+    },
+    {
+        "question": "Fill in the blanks with appropriate word:",
+        "description": "It’s so hot deep in the earth that some rocks slowly melt and turn into a thick, flowing substance called magma. Because it is light– than the solid rock around it, magma rises and coll—- in magma chambers. After some time, some of the magma pushes holes and crac– in the earth’s surface. Magma that erupts is called lava. Some volc—- eruptions are explosive and so– are not. The kind of eruption dep—- on the composition of the magma. When magma is th– and flowing, gases can easily esc— from it. When this type of magma erupts, it flows o– of the volcano. Lava flows does not always kill people because they move slowly enough not to harm people.",
+        "type": "multi-input",
+        "correctAnswer": ["lighter", "collects" ,"cracks", "volcanic", "some", "depends", "thin", "escape", "out"],
+        "madeBy": "Sanaul Haque"
+    }
+]
