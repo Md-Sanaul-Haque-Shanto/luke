@@ -324,7 +324,7 @@ class UI {
 
 class Game {
   constructor() {
-    this.numberOfQuizzes = 40;
+    this.numberOfQuizzes = 5;
     this.currentQuizIndex = 0;
     this.quizCategory = null;
     this.quizzes = [];
@@ -501,7 +501,7 @@ class QuizService {
       .then((result) => result.json())
       .then((quizzes) => quizzes.filter(q => SUPPORTED_QUIZ_TYPES.includes(q.type)))
       .then((quizzes) => {
-        if (quizzes.length < 40) {
+        if (quizzes.length < 5) {
           throw new Error('There are not enough quizzes');
         }
         return new Promise((resolve, reject) => resolve(this.shuffleQuizzes(quizzes)));
@@ -512,7 +512,7 @@ class QuizService {
   shuffleQuizzes(quizzes) {
     const shuffledQuizzes = [];
 
-    for (let i = 0; i < 40; i++) {
+    for (let i = 0; i < 5; i++) {
       let randomNumber = Math.floor(Math.random() * quizzes.length);
       let randomQuiz = quizzes[randomNumber];
 
