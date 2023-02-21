@@ -1,6 +1,11 @@
 const QUIZ_CATEGORIES = [
-  {category: 'luke', title: 'Fill in the Blanks'},
-  {category: 'extra', title: 'extra'}
+  {category: 'js', title: 'JavaScript'},
+  {category: 'java', title: 'Java'},
+  {category: 'php', title: 'PHP'},
+  {category: 'sql', title: 'SQL (MySQL)'},
+  {category: 'css', title: 'CSS'},
+  {category: 'luke', title: 'JSC Fill in the Blanks'},
+  {category: 'dart', title: 'Dart'}
 ];
 
 const SUPPORTED_QUIZ_TYPES = [
