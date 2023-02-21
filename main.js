@@ -4,7 +4,7 @@ const QUIZ_CATEGORIES = [
   {category: 'php', title: 'PHP'},
   {category: 'sql', title: 'SQL (MySQL)'},
   {category: 'css', title: 'CSS'},
-  {category: 'luke', title: 'JSC Fill in the Blanks'},
+  {category: 'luke', title: 'Fill in the Blanks'},
   {category: 'dart', title: 'Dart'}
 ];
 
