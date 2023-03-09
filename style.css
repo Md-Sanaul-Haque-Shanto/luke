@@ -293,7 +293,7 @@ button:hover {
 }
 
 .timer-animation {
-    animation: timer-animation 40s linear forwards;
+    animation: timer-animation 340s linear forwards;
 }
 
 @keyframes timer-animation {
